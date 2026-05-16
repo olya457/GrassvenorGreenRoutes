@@ -1,4 +1,4 @@
-package com.grassvenorgreenroutes
+package com.grassvenor.green.routes
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
