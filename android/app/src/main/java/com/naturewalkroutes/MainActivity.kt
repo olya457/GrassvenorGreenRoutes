@@ -1,4 +1,4 @@
-package com.grassvenor.green.routes
+package com.naturewalkroutes
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

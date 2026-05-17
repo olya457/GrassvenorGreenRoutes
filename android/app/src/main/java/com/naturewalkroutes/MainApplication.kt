@@ -1,4 +1,4 @@
-package com.grassvenor.green.routes
+package com.naturewalkroutes
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.grassvenor.green.routes"
+    namespace "com.naturewalkroutes"
     defaultConfig {
-        applicationId "com.grassvenor.green.routes"
+        applicationId "com.naturewalkroutes"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
